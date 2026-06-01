@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:00FF00&text=DEFFA%20ROHMAN&fontColor=00FF00&fontSize=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:00FF00&text=Deffa%20Rohman&fontColor=00FF00&fontSize=50&animation=fadeIn"
     width="100%"
   />
 </p>

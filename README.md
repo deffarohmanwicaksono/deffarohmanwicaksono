@@ -49,16 +49,6 @@
 
 ---
 
-<!-- ================= TROPHIES ================= -->
-<h3 align="center">🏆 ACHIEVEMENTS</h3>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deffarohmanwicaksono&theme=matrix&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-
-</div>
-
----
 
 <!-- ================= STATS ================= -->
 <h3 align="center">📊 GITHUB STATS</h3>

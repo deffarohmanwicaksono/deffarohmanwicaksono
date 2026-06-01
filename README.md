@@ -32,7 +32,6 @@
 ```bash
 > Name      : Deffa Rohman
 > Major     : Informatics Engineering
-> Semester  : 2
 > Interests : Web Development, Android, Robotics
 > Goal      : Remote Programmer & Digital Nomad
 ```

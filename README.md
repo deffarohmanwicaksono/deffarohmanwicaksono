@@ -17,8 +17,8 @@
 
 <!-- ================= VISITOR ================= -->
 <div align="center">
-
-<img src="https://profile-counter.glitch.me/deffarohmanwicaksono/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=deffarohmanwicaksono&label=VISITOR_COUNT&color=00ff00&style=flat-square" />
+</div>
 
 **🟢 SYSTEM HITS SINCE LAUNCH**
 

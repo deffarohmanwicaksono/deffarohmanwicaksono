@@ -20,6 +20,9 @@
   <img src="https://komarev.com/ghpvc/?username=deffarohmanwicaksono&label=VISITOR_COUNT&color=00ff00&style=flat-square" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deffarohmanwicaksono&theme=chartreuse_dark"/>
+</div>
 
 <!-- ================= ABOUT ================= -->
 <h3 align="center">👨‍💻 ABOUT ME</h3>

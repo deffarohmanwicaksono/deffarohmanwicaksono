@@ -15,7 +15,7 @@
 
 ---
 
-![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=radial)
+![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=deffarohmanwicaksono&show_icons=true&theme=radial)
 
 
 <!-- ================= VISITOR ================= -->
@@ -23,11 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=deffarohmanwicaksono&label=VISITOR_COUNT&color=00ff00&style=flat-square" />
 </div>
 
-**🟢 SYSTEM HITS SINCE LAUNCH**
-
-</div>
-
----
 
 <!-- ================= ABOUT ================= -->
 <h3 align="center">👨‍💻 ABOUT ME</h3>

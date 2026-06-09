@@ -15,9 +15,6 @@
 
 ---
 
-![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=deffarohmanwicaksono&show_icons=true&theme=radial)
-
-
 <!-- ================= VISITOR ================= -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=deffarohmanwicaksono&label=VISITOR_COUNT&color=00ff00&style=flat-square" />

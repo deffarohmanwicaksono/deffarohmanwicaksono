@@ -85,9 +85,15 @@
 
 <p align="center">
 
-```text
-[ SYSTEM STATUS : ONLINE ]
-[ EOF - PRESS CTRL+C TO EXIT ]
-```
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deffarohmanwicaksono&theme=chartreuse_dark" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deffarohmanwicaksono&theme=chartreuse_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deffarohmanwicaksono&theme=chartreuse_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deffarohmanwicaksono&theme=chartreuse_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deffarohmanwicaksono&theme=chartreuse_dark"/>
+</div>
 
 </p>

@@ -51,8 +51,8 @@
 <!-- ================= STATS ================= -->
 <h3 align="center">📊 GITHUB STATS</h3>
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deffarohmanwicaksono&show_icons=true&hide_border=true&title_color=DA020E&icon_color=DA020E&text_color=ffffff&bg_color=1a0000" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=deffarohmanwicaksono&hide_border=true&ring=DA020E&fire=DA020E&currStreakLabel=DA020E&background=1a0000&stroke=DA020E&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deffarohmanwicaksono&show_icons=true&hide_border=true&title_color=DA020E&icon_color=DA020E&text_color=ffffff&bg_color=1a0000" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=deffarohmanwicaksono&hide_border=true&ring=DA020E&fire=DA020E&currStreakLabel=DA020E&background=1a0000&stroke=DA020E&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 <br/>
@@ -66,11 +66,12 @@
 <!-- ================= CONTRIBUTION ================= -->
 <h3 align="center">📈 CONTRIBUTION STATS</h3>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deffarohmanwicaksono&theme=vision-friendly-dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deffarohmanwicaksono&theme=vision-friendly-dark" />
+  <!-- Menggunakan tema bawaan 'dark' yang stabil dan didukung penuh -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deffarohmanwicaksono&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deffarohmanwicaksono&theme=dark" />
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deffarohmanwicaksono&theme=vision-friendly-dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deffarohmanwicaksono&theme=dark" width="100%" />
 </div>
 
 <br/>

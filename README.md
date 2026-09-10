@@ -1,95 +1,53 @@
-<!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a0000,100:DA020E&text=Deffa%20Rohman&fontColor=DA020E&fontSize=50&animation=fadeIn" width="100%" />
-</p>
+### Hi, I'm Deffa
 
-<!-- ================= TYPING ================= -->
+<!-- TODO: Replace with a one-line intro about yourself -->
+I build things for the web. Currently focused on fullstack development.
+
+## About
+
+- 📍 Based in Surakarta
+
+
+I'm an informatics undergrad currently exposed to development and operations through coursework, but my real curiosity lives on the backend — the part where data, logic, and systems meet behind the scenes. I'm spending my spare time pushing toward server-side skills: PHP, Laravel, databases, and the craft of building APIs and services that actually hold up. Long-term I want to be the kind of developer who understands how a request moves through the stack — from database query to response — and can own that flow end to end.
+
+
+## Tech Stack
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=22&duration=4000&pause=1000&color=DA020E&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+DEFFA+ROHMAN...;%3E+INFORMATICS+STUDENT;%3E+WEB+DEVELOPER+%7C+ANDROID+DEVELOPER;%3E+BUILDING+AWESOME+PROJECTS" />
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  </a>
+  <a href="https://expo.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FFC107?logo=linux&logoColor=black" />
   </a>
 </div>
 
-<!-- ================= VISITOR ================= -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=deffarohmanwicaksono&label=VISITOR_COUNT&color=DA020E&style=flat-square" />
-  <br/>
-  <strong>🔴 SYSTEM HITS SINCE LAUNCH</strong>
-</div>
+**Languages**
+- Python, JavaScript/TypeScript, php, Java
 
-<br/>
+**Frameworks & Tools**
+- React, FastAPI, Node.js, Expo
 
-<!-- ================= ABOUT ================= -->
-<h3 align="center">👨‍💻 ABOUT ME</h3>
+**Platforms**
+- AWS, Docker, GCP.
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="left">
-        <code><strong>🚀 PROFILE</strong></code>
-        <pre>
-• Name      : Deffa Rohman
-• Major     : Informatics Engineering
-• Interests : Web Development, Android, Robotics
-• Goal      : Remote Programmer & Digital Nomad
-        </pre>
-      </td>
-    </tr>
-  </table>
-</div>
+## What I'm Doing
 
-<br/>
+- 💻 Building: Safo's team, part of WIBAWA 2025 Universitas Sebelas Maret. Our mission is to reduce food waste in Surakarta
 
-<!-- ================= TECH STACK ================= -->
-<h3 align="center">💾 TECH STACK</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql,git,github,vscode,androidstudio&theme=dark" />
-</div>
-
-<br/>
-
-<!-- ================= STATS ================= -->
-<h3 align="center">📊 GITHUB STATS</h3>
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deffarohmanwicaksono&show_icons=true&hide_border=true&title_color=DA020E&icon_color=DA020E&text_color=ffffff&bg_color=1a0000" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=deffarohmanwicaksono&hide_border=true&ring=DA020E&fire=DA020E&currStreakLabel=DA020E&background=1a0000&stroke=DA020E&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="72%" src="https://github-readme-activity-graph.vercel.app/graph?username=deffarohmanwicaksono&hide_border=true&bg_color=1a0000&color=DA020E&line=DA020E&point=ffffff" />
-</div>
-
-<br/>
-
-<!-- ================= CONTRIBUTION ================= -->
-<h3 align="center">📈 CONTRIBUTION STATS</h3>
-<div align="center">
-  <!-- Menggunakan tema bawaan 'dark' yang stabil dan didukung penuh -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deffarohmanwicaksono&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deffarohmanwicaksono&theme=dark" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deffarohmanwicaksono&theme=dark" width="100%" />
-</div>
-
-<br/>
-
-<!-- ================= CONNECT ================= -->
-<h3 align="center">📡 CONNECT WITH ME</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/deffarhmnwicks01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-DA020E?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wicaksonodeffa14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-DA020E?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<p align="center">
-  <code>[ SYSTEM STATUS : ONLINE ]</code><br/>
-  <code>[ EOF - PRESS CTRL+C TO EXIT ]</code>
-</p>
+Feel free to look around — open a PR, start a discussion, or just say hi.
